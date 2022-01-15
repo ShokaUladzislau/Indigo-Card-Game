@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-classes-kotlin.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-reports-tests.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-test-results.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-tmp.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-out.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Work_with_MutableLists-Playing_with_numbers.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Work_with_MutableLists-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
